@@ -6,3 +6,5 @@ for i in range(num_lists):
     result_dict[keys[i]]=values
 print("/ncreated dictionary:")
 print(result_dict)
+
+print("hello world")
